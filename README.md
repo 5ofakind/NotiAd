@@ -5,7 +5,6 @@
          on a project to Make Bauska Better Again
       </p>
    </body>
-</html>
 
 <strong> Bookmark List </strong>
 <hr>
