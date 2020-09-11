@@ -1,5 +1,5 @@
    <body>
-      <h1>NotiAD</h1>
+      <h1>Team 5 Of A Kind</h1>
       <p>
          We’re a <a href="https://www.mcdonalds.com/us/en-us/about-us/leadership-team.html">team</a> of professionals working
          on a project to Make Bauska Better Again
