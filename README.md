@@ -1,4 +1,5 @@
-   <body>
+ <head> <script language="javascript" type="text/javascript">alert("Welcome to NotAd&#169;")</script></head><font face="TimesNewRoman"><span style="font-size: 10pt; text-decoration: none"></span></a></font>
+ <body>
       <h1>Team 5 Of A Kind</h1>
       <p>
          We’re a <a href="https://www.mcdonalds.com/us/en-us/about-us/leadership-team.html">team</a> of professionals working
