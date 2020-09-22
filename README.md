@@ -1,11 +1,3 @@
-{
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: blue;
-}
- 
  <body>
       <h1>Team 5 Of A Kind</h1>
       <p>
@@ -17,7 +9,7 @@
 <h2> Bookmark List </h2>
 </header>
 <hr>
-    <h3> Information about Bauska </h3>
+<h3 style="background-color:DodgerBlue;">Information about Bauska</h3>
 <br>
   1 <a href="https://www.tourism.bauska.lv/">Tourism.Bauska</a> <br>
   2 <a href="facebook.com/visitbauska">VisitBauska Facebook Account</a> <br>
