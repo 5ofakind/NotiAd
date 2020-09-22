@@ -6,13 +6,9 @@
       </p>
    </body>
 
-<strong> Bookmark List </strong>
+<h1> Bookmark List </h1>
 <hr>
-float: left;
-  width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
-  background: #ccc;
-  padding: 20px;
+
 1 <a href="https://data.gov.lv/lv">Data Server Latvia</a> <br>
 2 <a href="https://5-of-a-kind.monday.com/boards/737351226">TO DO List</a> <br>
 3 <a href="https://drive.google.com/drive/folders/1maP51iZZuWkRuMhyKJFX3KCeXE5k57Ol">Project Related Documents</a> <br>
