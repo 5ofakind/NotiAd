@@ -1,4 +1,4 @@
-header {
+{
   background-color: #666;
   padding: 30px;
   text-align: center;
@@ -15,7 +15,7 @@ header {
    </body>
 <header>
 <h2> Bookmark List </h2>
-  </header>
+</header>
 <hr>
     <h3> Information about Bauska </h3>
 <br>
