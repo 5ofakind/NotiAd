@@ -4,6 +4,7 @@
   text-align: center;
   font-size: 35px;
   color: blue;
+  }
  
  <body>
       <h1>Team 5 Of A Kind</h1>
