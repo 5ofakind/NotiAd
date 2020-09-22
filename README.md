@@ -1,4 +1,7 @@
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<html>
+<body>
+ 
+<h1 style="background-color:DodgerBlue;">Hello World DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD</h1>
 <body>
  <h1 style="border:2px solid Tomato;"><strong>Team </strong> 5 OF A KIND</h1>
       <p>
@@ -30,3 +33,6 @@
   3 <a href="https://www.bite.lv/lv/kontakti">BITE contact information</a> <br>
   4 <a href="https://gdpr-info.eu/">General Data Protection Regulation in EU (GDPR)</a> <br>
   5 <a href="https://www.waze.com/business/?w_promo=75702d0a-15bc-4f23-b95b-3e4298ac1fed&w_source=abgd_Search_lv_en_431275708319__9062307_waze%20advertising%20contact&network=g&gclid=Cj0KCQjwhvf6BRCkARIsAGl1GGh2FIV8bXoIQzQRWSdEJU1F2hH3F9j7BSwhY13EvlEsvfg71dXf2FQaAlXREALw_wcB">Waze Advertisment options</a> <br>
+
+</body>
+</html>
