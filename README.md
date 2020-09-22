@@ -2,7 +2,7 @@
 <html>
 <body style="background-color:LightGrey;">
 <body>
- <h1 style="border:2px solid Tomato;"><strong>Team </strong> 5 OF A KIND</h1>
+ <h1 style="border:10px solid Tomato;"><strong>Team </strong> 5 OF A KIND</h1>
       <p>
          We’re a <a href="https://www.mcdonalds.com/us/en-us/about-us/leadership-team.html">team</a> of professionals working
          on a project to Make Bauska Better Again
@@ -10,7 +10,7 @@
    </body>
  
       <h2> Bookmark List </h2>
-<hr>
+      
     <h3 style="background-color:DodgerBlue;">Information about Bauska</h3>
 <br>
 <p style="background-color:LightGrey;">
@@ -18,7 +18,7 @@
   2 <a href="facebook.com/visitbauska">VisitBauska Facebook Account</a> <br>
   3 <a href="https://www.bauska.lv/lv/uznemejdarbiba/top-100-lielakie-uznemumi">TOP 100 Businesses in Bauska</a> <br>
 </p>
-<hr>  
+
     <h3 style="background-color:Tomato;">Team Documents</h3>
 <br>
 <p style="background-color:LightGrey;">
@@ -27,7 +27,7 @@
   3 <a href="https://docs.google.com/document/d/1V3uJ6E9pWw4G8HpVEbluR73pvvUPVgKRsB37QJ7AIAI/edit?usp=drive_web&ouid=112110715317551150209">Team Working Agreement</a> <br>
   4 <a href="https://drive.google.com/file/d/1wsSlzm61HL8SNBeHHpG5wPlNLfKxPp1S/view?usp=sharing">Syllabus First Year Seminar</a> <br>
 </p>
-<hr>  
+
     <h3 style="background-color:Grey;">Other</h3>
 <br>
 <p style="background-color:LightGrey;">
