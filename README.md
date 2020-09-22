@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:LightGrey;">
 <body>
  <h1 style="border:2px solid Tomato;"><strong>Team </strong> 5 OF A KIND</h1>
       <p>
