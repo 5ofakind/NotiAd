@@ -7,30 +7,22 @@
    </body>
 
 <h2> Bookmark List </h2>
-<br>
 <hr>
 <br>
     <h3> Information about Bauska </h3>
 <br>
-<br>
   1 <a href="https://www.tourism.bauska.lv/">Tourism.Bauska</a> <br>
   2 <a href="facebook.com/visitbauska">VisitBauska Facebook Account</a> <br>
   3 <a href="https://www.bauska.lv/lv/uznemejdarbiba/top-100-lielakie-uznemumi">TOP 100 Businesses in Bauska</a> <br>
-<br>
-<hr>
-<br>  
+<hr>  
     <h3> Team Documents </h3>
-<br>
 <br>
   1 <a href="https://5-of-a-kind.monday.com/boards/737351226">TO DO List</a> <br>
   2 <a href="https://drive.google.com/drive/folders/1maP51iZZuWkRuMhyKJFX3KCeXE5k57Ol">Project Related Documents</a> <br>
   2 <a href="https://docs.google.com/document/d/1V3uJ6E9pWw4G8HpVEbluR73pvvUPVgKRsB37QJ7AIAI/edit?usp=drive_web&ouid=112110715317551150209">Team Working Agreement</a> <br>
   10 <a href="https://drive.google.com/file/d/1wsSlzm61HL8SNBeHHpG5wPlNLfKxPp1S/view?usp=sharing">Syllabus First Year Seminar</a> <br>
-<br>
-<hr>
-<br>  
+<hr>  
     <h3> Other </h3>
-<br>
 <br>
   1 <a href="https://data.gov.lv/lv">Data Server Latvia</a> <br>
   2 <a href="https://www.lmt.lv/en/contacts">LMT contact information</a> <br>
