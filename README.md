@@ -2,7 +2,7 @@
 <html>
 <body style="background-color:LightGrey;">
 <body>
- <h1 style="border:10px solid Tomato;"><strong>Team </strong> 5 OF A KIND</h1>
+ <h1 style="border:6px solid Tomato;"><strong>Team </strong> 5 OF A KIND</h1>
       <p>
          We’re a <a href="https://www.mcdonalds.com/us/en-us/about-us/leadership-team.html">team</a> of professionals working
          on a project to Make Bauska Better Again
