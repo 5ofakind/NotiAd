@@ -1,12 +1,20 @@
-  <body>
+ header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: blue;
+ 
+ <body>
       <h1>Team 5 Of A Kind</h1>
       <p>
          We’re a <a href="https://www.mcdonalds.com/us/en-us/about-us/leadership-team.html">team</a> of professionals working
          on a project to Make Bauska Better Again
       </p>
    </body>
-
+<header>
 <h2> Bookmark List </h2>
+  </header>
 <hr>
     <h3> Information about Bauska </h3>
 <br>
