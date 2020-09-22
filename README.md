@@ -8,9 +8,7 @@
          on a project to Make Bauska Better Again
       </p>
    </body>
- 
       <h2> Bookmark List </h2>
-      
     <h3 style="background-color:DodgerBlue;">Information about Bauska</h3>
 <br>
 <p style="background-color:LightGrey;">
