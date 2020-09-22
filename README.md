@@ -8,7 +8,6 @@
 
 <h2> Bookmark List </h2>
 <hr>
-<br>
     <h3> Information about Bauska </h3>
 <br>
   1 <a href="https://www.tourism.bauska.lv/">Tourism.Bauska</a> <br>
