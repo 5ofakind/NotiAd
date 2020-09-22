@@ -1,5 +1,6 @@
- <body>
-      <h1>Team 5 Of A Kind</h1>
+<h1 style="border:2px solid Tomato;">Hello World</h1>
+<body>
+ <h1 style="border:2px solid Tomato;"><strong>Team </strong> 5 OF A KIND</h1>
       <p>
          We’re a <a href="https://www.mcdonalds.com/us/en-us/about-us/leadership-team.html">team</a> of professionals working
          on a project to Make Bauska Better Again
@@ -9,7 +10,7 @@
 <h2> Bookmark List </h2>
 </header>
 <hr>
-<h3 style="background-color:DodgerBlue;">Information about Bauska</h3>
+<h3 style="background-color:Tomato;">Information about Bauska</h3>
 <br>
   1 <a href="https://www.tourism.bauska.lv/">Tourism.Bauska</a> <br>
   2 <a href="facebook.com/visitbauska">VisitBauska Facebook Account</a> <br>
